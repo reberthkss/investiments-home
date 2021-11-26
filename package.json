@@ -1,7 +1,7 @@
 {
   "name": "investiments-home",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "Reberth <reberthkss@outlook.com>",
   "license": "MIT",
   "private": true,
