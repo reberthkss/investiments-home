@@ -1,3 +1,2 @@
-const HomeReducer = {}
+export const HomeReducer = {}
 
-export default HomeReducer
